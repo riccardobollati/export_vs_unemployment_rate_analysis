@@ -1,0 +1,20 @@
+{
+  "validation": {
+    "status": {
+      "name": "Ok",
+      "value": 0,
+      "category": 0,
+      "description": "",
+      "helpUrl": "For more reference visit http://comtrade.un.org/data/dev/portal/"
+    },
+    "message": null,
+    "count": {
+      "value": 0,
+      "started": "0001-01-01T00:00:00",
+      "finished": "0001-01-01T00:00:00",
+      "durationSeconds": 0.0
+    },
+    "datasetTimer": null
+  },
+  "dataset": []
+}

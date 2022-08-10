@@ -1,0 +1,36 @@
+{
+    "names_map":{
+
+        "Syrian Arab Republic" : "Syria",
+        "St. Vincent and the Grenadines" : "Saint Vincent and the Grenadines",
+        "Turkiye" : "Turkey",
+        "Congo, Dem. Rep." : "Dem. Rep. of the Congo",
+        "Egypt, Arab Rep." : "Egypt",
+        "Solomon Islands" : "Solomon Isds",
+        "Bahamas, The" : "Bahamas",
+        "Moldova" : "Rep. of Moldova",
+        "Tanzania" : "United Rep. of Tanzania",
+        "United States" : "USA",
+        "St. Lucia" : "Saint Lucia",
+        "Hong Kong SAR, China" : "China, Hong Kong SAR",
+        "Kyrgyz Republic" : "Kyrgyzstan",
+        "Macao SAR, China" : "China, Macao SAR",
+        "Faroe Islands" : "Faeroe Isds",
+        "Marshall Islands" : "Marshall Isds",
+        "Central African Republic" : "Central African Rep.",
+        "Bosnia and Herzegovina" : "Bosnia Herzegovina",
+        "Slovak Republic" : "Slovakia",
+        "Lao PDR" : "Lao People's Dem. Rep.",
+        "Yemen, Rep." : "Yemen",
+        "Vietnam" : "Viet Nam",
+        "St. Kitts and Nevis" : "Saint Kitts and Nevis",
+        "Iran, Islamic Rep." : "Iran",
+        "Venezuela, RB" : "Venezuela",
+        "Gambia, The" : "Gambia",
+        "Dominican Republic" : "Dominican Rep.",
+        "European Union" : "EU",
+        "Congo, Rep." : "Congo",
+        "Korea, Rep." : "Rep. of Korea",
+        "Czech Republic" : "Czech Rep."
+        }
+}

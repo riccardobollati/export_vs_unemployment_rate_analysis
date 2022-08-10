@@ -1,0 +1,757 @@
+{
+   "ALL": {
+      "category": "ALL",
+      "description": "- All EBOPS 2002 Services",
+      "parent": "#"
+   },
+   "200": {
+      "category": "TOTAL",
+      "description": "- Total EBOPS 2002 Services",
+      "parent": "200"
+   },
+   "205": {
+      "category": "1.",
+      "description": "Transportation",
+      "parent": "200"
+   },
+   "206": {
+      "category": "1.1",
+      "description": "Sea transport",
+      "parent": "205"
+   },
+   "207": {
+      "category": "1.1.1",
+      "description": "Passenger",
+      "parent": "206"
+   },
+   "208": {
+      "category": "1.1.2",
+      "description": "Freight",
+      "parent": "206"
+   },
+   "209": {
+      "category": "1.1.3",
+      "description": "Other",
+      "parent": "206"
+   },
+   "210": {
+      "category": "1.2",
+      "description": "Air transport",
+      "parent": "205"
+   },
+   "211": {
+      "category": "1.2.1",
+      "description": "Passenger",
+      "parent": "210"
+   },
+   "212": {
+      "category": "1.2.2",
+      "description": "Freight",
+      "parent": "210"
+   },
+   "213": {
+      "category": "1.2.3",
+      "description": "Other",
+      "parent": "210"
+   },
+   "214": {
+      "category": "1.3",
+      "description": "Other transport",
+      "parent": "205"
+   },
+   "215": {
+      "category": "1.3.1",
+      "description": "Passenger",
+      "parent": "214"
+   },
+   "216": {
+      "category": "1.3.2",
+      "description": "Freight",
+      "parent": "214"
+   },
+   "217": {
+      "category": "1.3.3",
+      "description": "Other",
+      "parent": "214"
+   },
+   "218": {
+      "category": "1.4",
+      "description": "Other transport of which: Space transport",
+      "parent": "205"
+   },
+   "219": {
+      "category": "1.5",
+      "description": "Other transport of which: Rail transport",
+      "parent": "205"
+   },
+   "220": {
+      "category": "1.5.1",
+      "description": "Passenger",
+      "parent": "219"
+   },
+   "221": {
+      "category": "1.5.2",
+      "description": "Freight",
+      "parent": "219"
+   },
+   "222": {
+      "category": "1.5.3",
+      "description": "Other",
+      "parent": "219"
+   },
+   "223": {
+      "category": "1.6",
+      "description": "Other transport of which: Road transport",
+      "parent": "205"
+   },
+   "224": {
+      "category": "1.6.1",
+      "description": "Passenger",
+      "parent": "223"
+   },
+   "225": {
+      "category": "1.6.2",
+      "description": "Freight",
+      "parent": "223"
+   },
+   "226": {
+      "category": "1.6.3",
+      "description": "Other",
+      "parent": "223"
+   },
+   "227": {
+      "category": "1.7",
+      "description": "Other transport of which: Inland waterway transport",
+      "parent": "205"
+   },
+   "228": {
+      "category": "1.7.1",
+      "description": "Passenger",
+      "parent": "227"
+   },
+   "229": {
+      "category": "1.7.2",
+      "description": "Freight",
+      "parent": "227"
+   },
+   "230": {
+      "category": "1.7.3",
+      "description": "Other",
+      "parent": "227"
+   },
+   "231": {
+      "category": "1.8",
+      "description": "Other transport of which: Pipeline transport and electricity transmission",
+      "parent": "205"
+   },
+   "232": {
+      "category": "1.9",
+      "description": "Other supporting an auxiliary transport services",
+      "parent": "205"
+   },
+   "236": {
+      "category": "2.",
+      "description": "Travel",
+      "parent": "200"
+   },
+   "237": {
+      "category": "2.1",
+      "description": "Business travel",
+      "parent": "236"
+   },
+   "238": {
+      "category": "2.1.1",
+      "description": "Expenditure by seasonal and border workers",
+      "parent": "237"
+   },
+   "239": {
+      "category": "2.1.2",
+      "description": "Other",
+      "parent": "237"
+   },
+   "240": {
+      "category": "2.2",
+      "description": "Personal travel",
+      "parent": "236"
+   },
+   "241": {
+      "category": "2.2.1",
+      "description": "Health-related expenditure",
+      "parent": "240"
+   },
+   "242": {
+      "category": "2.2.2",
+      "description": "Education-related expenditure",
+      "parent": "240"
+   },
+   "243": {
+      "category": "2.2.3",
+      "description": "Other",
+      "parent": "240"
+   },
+   "245": {
+      "category": "3.",
+      "description": "Communications services",
+      "parent": "200"
+   },
+   "246": {
+      "category": "3.1",
+      "description": "Postal and courier services",
+      "parent": "245"
+   },
+   "247": {
+      "category": "3.2",
+      "description": "Telecommunications services",
+      "parent": "245"
+   },
+   "249": {
+      "category": "4.",
+      "description": "Construction services",
+      "parent": "200"
+   },
+   "250": {
+      "category": "4.1",
+      "description": "Construction abroad",
+      "parent": "249"
+   },
+   "251": {
+      "category": "4.2",
+      "description": "Construction in the compiling economy",
+      "parent": "249"
+   },
+   "253": {
+      "category": "5.",
+      "description": "Insurance services",
+      "parent": "200"
+   },
+   "254": {
+      "category": "5.1",
+      "description": "Life insurance and pension funding",
+      "parent": "253"
+   },
+   "255": {
+      "category": "5.2",
+      "description": "Freight insurance",
+      "parent": "253"
+   },
+   "256": {
+      "category": "5.3",
+      "description": "Other direct insurance",
+      "parent": "253"
+   },
+   "257": {
+      "category": "5.4",
+      "description": "Reinsurance",
+      "parent": "253"
+   },
+   "258": {
+      "category": "5.5",
+      "description": "Auxiliary services",
+      "parent": "253"
+   },
+   "260": {
+      "category": "6.",
+      "description": "Financial services",
+      "parent": "200"
+   },
+   "262": {
+      "category": "7.",
+      "description": "Computer and information services",
+      "parent": "200"
+   },
+   "263": {
+      "category": "7.1",
+      "description": "Computer services",
+      "parent": "262"
+   },
+   "264": {
+      "category": "7.2",
+      "description": "Information services",
+      "parent": "262"
+   },
+   "266": {
+      "category": "8.",
+      "description": "Royalties and license fees",
+      "parent": "200"
+   },
+   "268": {
+      "category": "9.",
+      "description": "Other business services",
+      "parent": "200"
+   },
+   "269": {
+      "category": "9.1",
+      "description": "Merchanting and other trade-related services",
+      "parent": "268"
+   },
+   "270": {
+      "category": "9.1.1",
+      "description": "Merchanting",
+      "parent": "269"
+   },
+   "271": {
+      "category": "9.1.2",
+      "description": "Other trade-related services",
+      "parent": "269"
+   },
+   "272": {
+      "category": "9.2",
+      "description": "Operational leasing services",
+      "parent": "268"
+   },
+   "273": {
+      "category": "9.3",
+      "description": "Miscellaneous business, professional, and technical services",
+      "parent": "268"
+   },
+   "274": {
+      "category": "9.3.1",
+      "description": "Legal, accounting, management consulting, and public relations",
+      "parent": "273"
+   },
+   "275": {
+      "category": "9.3.1.1",
+      "description": "Legal services",
+      "parent": "274"
+   },
+   "276": {
+      "category": "9.3.1.2",
+      "description": "Accounting, auditing, bookkeeping, and tax consulting services",
+      "parent": "274"
+   },
+   "277": {
+      "category": "9.3.1.3",
+      "description": "Business and management consulting and public relations services",
+      "parent": "274"
+   },
+   "278": {
+      "category": "9.3.2",
+      "description": "Advertising, market research, and public opinion polling",
+      "parent": "273"
+   },
+   "279": {
+      "category": "9.3.3",
+      "description": "Research and development",
+      "parent": "273"
+   },
+   "280": {
+      "category": "9.3.4",
+      "description": "Architectural, engineering, and other technical services",
+      "parent": "273"
+   },
+   "281": {
+      "category": "9.3.5",
+      "description": "Agricultural, mining, and on-site processing services",
+      "parent": "273"
+   },
+   "282": {
+      "category": "9.3.5.1",
+      "description": "Waste treatment and depollution",
+      "parent": "281"
+   },
+   "283": {
+      "category": "9.3.5.2",
+      "description": "Agricultural, mining, and other on-site processing services",
+      "parent": "281"
+   },
+   "284": {
+      "category": "9.3.6",
+      "description": "Other business services",
+      "parent": "273"
+   },
+   "285": {
+      "category": "9.3.7",
+      "description": "Services between related enterprises, n.i.e.",
+      "parent": "273"
+   },
+   "287": {
+      "category": "10.",
+      "description": "Personal, cultural, and recreational services",
+      "parent": "200"
+   },
+   "288": {
+      "category": "10.1",
+      "description": "Audiovisual and related services",
+      "parent": "287"
+   },
+   "289": {
+      "category": "10.2",
+      "description": "Other personal, cultural, and recreational services",
+      "parent": "287"
+   },
+   "291": {
+      "category": "11.",
+      "description": "Government services, n.i.e.",
+      "parent": "200"
+   },
+   "292": {
+      "category": "11.1",
+      "description": "Embassies and consulates",
+      "parent": "291"
+   },
+   "293": {
+      "category": "11.2",
+      "description": "Military units and agencies",
+      "parent": "291"
+   },
+   "294": {
+      "category": "11.3",
+      "description": "Other government services",
+      "parent": "291"
+   },
+   "310": {
+      "category": "Compensation",
+      "description": "of employees",
+      "parent": "900"
+   },
+   "391": {
+      "category": "Workers'",
+      "description": "remittance",
+      "parent": "900"
+   },
+   "431": {
+      "category": "Migrant's",
+      "description": "transfers",
+      "parent": "900"
+   },
+   "500": {
+      "category": "Direct",
+      "description": "investment",
+      "parent": "900"
+   },
+   "858": {
+      "category": "1.3",
+      "description": "Other freight",
+      "parent": "950"
+   },
+   "862": {
+      "category": "1.4",
+      "description": "Space freight",
+      "parent": "950"
+   },
+   "863": {
+      "category": "1.5",
+      "description": "Rail freight",
+      "parent": "950"
+   },
+   "865": {
+      "category": "1.7",
+      "description": "Inland waterway freight",
+      "parent": "950"
+   },
+   "868": {
+      "category": "1.8",
+      "description": "Pipeline freight",
+      "parent": "950"
+   },
+   "871": {
+      "category": "2.3",
+      "description": "Travel - All other travel expenditure",
+      "parent": "970"
+   },
+   "887": {
+      "category": "5.",
+      "description": "Financial intermediation services indirectly measured (FISIM)",
+      "parent": "999"
+   },
+   "888": {
+      "category": "6.",
+      "description": "Financial servies including FISIM",
+      "parent": "999"
+   },
+   "889": {
+      "category": "7.2.1",
+      "description": "News agency services",
+      "parent": "264"
+   },
+   "890": {
+      "category": "7.2.2",
+      "description": "Other information provision services",
+      "parent": "264"
+   },
+   "891": {
+      "category": "8.1",
+      "description": "Franchises and similar rights",
+      "parent": "266"
+   },
+   "892": {
+      "category": "8.2",
+      "description": "Other royalties and license fees",
+      "parent": "266"
+   },
+   "894": {
+      "category": "8.",
+      "description": "Audiovisual transactions",
+      "parent": "999"
+   },
+   "895": {
+      "category": "10.2.1",
+      "description": "Education services",
+      "parent": "289"
+   },
+   "896": {
+      "category": "10.2.2",
+      "description": "Health services",
+      "parent": "289"
+   },
+   "897": {
+      "category": "10.2.3",
+      "description": "Other",
+      "parent": "289"
+   },
+   "900": {
+      "category": "Supplementary",
+      "description": "Items",
+      "parent": "200"
+   },
+   "950": {
+      "category": "1.",
+      "description": "Freight transportation on merchandise, valued on a transaction basis",
+      "parent": "999"
+   },
+   "951": {
+      "category": "1.1",
+      "description": "Sea freight",
+      "parent": "950"
+   },
+   "952": {
+      "category": "1.2",
+      "description": "Air freight",
+      "parent": "950"
+   },
+   "953": {
+      "category": "1.6",
+      "description": "Road freight",
+      "parent": "950"
+   },
+   "956": {
+      "category": "2.1",
+      "description": "Travel - Expenditure on goods",
+      "parent": "970"
+   },
+   "957": {
+      "category": "2.2",
+      "description": "Travel - Expenditure on accommodation and food and beverage serving services",
+      "parent": "970"
+   },
+   "960": {
+      "category": "3.",
+      "description": "Gross insurance premiums",
+      "parent": "999"
+   },
+   "961": {
+      "category": "4.",
+      "description": "Gross insurance claims",
+      "parent": "999"
+   },
+   "962": {
+      "category": "7.",
+      "description": "Merchanting gross flows",
+      "parent": "999"
+   },
+   "970": {
+      "category": "2.",
+      "description": "Travel",
+      "parent": "999"
+   },
+   "972": {
+      "category": "3.1",
+      "description": "Gross premiums - life insurance",
+      "parent": "960"
+   },
+   "973": {
+      "category": "4.1",
+      "description": "Gross claims - life insurance",
+      "parent": "961"
+   },
+   "974": {
+      "category": "3.2",
+      "description": "Gross premiums - freight insurance",
+      "parent": "960"
+   },
+   "975": {
+      "category": "4.2",
+      "description": "Gross claims - freight insurance",
+      "parent": "961"
+   },
+   "976": {
+      "category": "3.3",
+      "description": "Gross premiums - other direct insurance",
+      "parent": "960"
+   },
+   "977": {
+      "category": "4.3",
+      "description": "Gross claims - other direct insurance",
+      "parent": "961"
+   },
+   "983": {
+      "category": "Service",
+      "description": "not allocated",
+      "parent": "200"
+   },
+   "999": {
+      "category": "Memorandum",
+      "description": "Items",
+      "parent": "200"
+   },
+   "205X": {
+      "category": "1.X",
+      "description": "Transportation MI",
+      "parent": "205"
+   },
+   "206X": {
+      "category": "1.1.X",
+      "description": "Sea transport MI",
+      "parent": "206"
+   },
+   "210X": {
+      "category": "1.2.X",
+      "description": "Air transport MI",
+      "parent": "210"
+   },
+   "214X": {
+      "category": "1.3.X",
+      "description": "Other transport MI",
+      "parent": "214"
+   },
+   "219X": {
+      "category": "1.5.X",
+      "description": "Other transport of which: Rail transport MI",
+      "parent": "219"
+   },
+   "223X": {
+      "category": "1.6.X",
+      "description": "Other transport of which: Road transport MI",
+      "parent": "223"
+   },
+   "227X": {
+      "category": "1.7.X",
+      "description": "Other transport of which: Inland waterway transport MI",
+      "parent": "227"
+   },
+   "236X": {
+      "category": "2.X",
+      "description": "Travel MI",
+      "parent": "236"
+   },
+   "237X": {
+      "category": "2.1.X",
+      "description": "Business travel MI",
+      "parent": "237"
+   },
+   "240X": {
+      "category": "2.2.X",
+      "description": "Personal travel MI",
+      "parent": "240"
+   },
+   "245X": {
+      "category": "3.X",
+      "description": "Communications services MI",
+      "parent": "245"
+   },
+   "249X": {
+      "category": "4.X",
+      "description": "Construction services MI",
+      "parent": "249"
+   },
+   "253X": {
+      "category": "5.X",
+      "description": "Insurance services MI",
+      "parent": "253"
+   },
+   "262X": {
+      "category": "7.X",
+      "description": "Computer and information services MI",
+      "parent": "262"
+   },
+   "264X": {
+      "category": "7.2.X",
+      "description": "Information services MI",
+      "parent": "264"
+   },
+   "266X": {
+      "category": "8.X",
+      "description": "Royalties and license fees MI",
+      "parent": "NULL"
+   },
+   "268X": {
+      "category": "9.X",
+      "description": "Other business services MI",
+      "parent": "268"
+   },
+   "269X": {
+      "category": "9.1.X",
+      "description": "Merchanting and other trade-related services MI",
+      "parent": "269"
+   },
+   "273X": {
+      "category": "9.3.X",
+      "description": "Miscellaneous business, professional, and technical services MI",
+      "parent": "273"
+   },
+   "274X": {
+      "category": "9.3.1.X",
+      "description": "Legal, accounting, management consulting, and public relations MI",
+      "parent": "274"
+   },
+   "281X": {
+      "category": "9.3.5.X",
+      "description": "Agricultural, mining, and on-site processing services MI",
+      "parent": "281"
+   },
+   "287X": {
+      "category": "10.X",
+      "description": "Personal, cultural, and recreational services MI",
+      "parent": "287"
+   },
+   "289X": {
+      "category": "10.2.X",
+      "description": "Other personal, cultural, and recreational services MI",
+      "parent": "289"
+   },
+   "291X": {
+      "category": "11.X",
+      "description": "Government services, n.i.e. MI",
+      "parent": "291"
+   },
+   "900X": {
+      "category": "Supplementary",
+      "description": "Items MI",
+      "parent": "900"
+   },
+   "950X": {
+      "category": "1.X",
+      "description": "Freight transportation on merchandise, valued on a transaction basis MI",
+      "parent": "950"
+   },
+   "960X": {
+      "category": "3.X",
+      "description": "Gross insurance premiums MI",
+      "parent": "960"
+   },
+   "961X": {
+      "category": "4.X",
+      "description": " Gross insurance claims MI",
+      "parent": "961"
+   },
+   "970X": {
+      "category": "2.X",
+      "description": "Travel MI",
+      "parent": "970"
+   },
+   "851": {
+      "category": "Transportation",
+      "description": "of which: Freight",
+      "parent": "200"
+   },
+   "852": {
+      "category": "Transportation",
+      "description": "of which: Other",
+      "parent": "200"
+   },
+   "850": {
+      "category": "Transportation",
+      "description": "of which: Passenger",
+      "parent": "200"
+   }
+}
